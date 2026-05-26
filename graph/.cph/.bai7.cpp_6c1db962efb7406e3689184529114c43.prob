@@ -1,0 +1,1 @@
+{"name":"Local: bai7","url":"d:\\DSA\\code\\graph\\bai7.cpp","tests":[{"id":1779710306334,"input":"5 4\n4 3\n3 1\n4 2\n5 4\n","output":"0 0 1 0 0 \n0 0 0 1 0 \n1 0 0 1 0 \n0 1 1 0 1 \n0 0 0 1 0 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\code\\graph\\bai7.cpp","group":"local","local":true}
