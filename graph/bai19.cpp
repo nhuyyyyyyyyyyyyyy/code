@@ -56,6 +56,6 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     nhap();
-    demDinhTru();
+    cout << demDinhTru();
     return 0;
 }
